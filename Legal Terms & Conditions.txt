@@ -1,0 +1,13 @@
+Software Disclaimer (Version 1.0)
+
+This Software Disclaimer ("Disclaimer") applies to the "Computer Hacks" software (the "Software"), version 1.0, and governs its use. By accessing, installing, or using the Software, you expressly agree to be bound by the terms and conditions set forth in this Disclaimer. If you do not agree with these terms, you are not authorized to open, install, or use the Software.
+
+The "Computer Hacks" software is a proprietary intellectual property owned and developed by [Your Company Name]. The Software is made available to users "as is" for informational and personal use only. Any commercial use, distribution, or engagement in unlawful or unauthorized activities using the Software is strictly prohibited.
+
+The IP and MAC address generator integrated into the Software is specifically intended for the ethical and lawful generation of network-related identifiers. Users are permitted to utilize this feature solely for legitimate network configuration and identification purposes. It is explicitly prohibited to employ this functionality for any unauthorized access to computer networks, MAC address spoofing, or illicit interception of data traffic.
+
+Moreover, the Brute Force generator included in the Software is a tool designated for authorized and ethical penetration testing, security assessments, and other lawful purposes. The use of the Brute Force generator for any unauthorized or unlawful activities, including but not limited to unauthorized access to computer systems, networks, or data, is strictly prohibited.
+
+Users of the Software are mandated to duly acknowledge and credit the work of the developers and contributors when incorporating any part of the Software into their own projects or for other purposes. Providing acknowledgment of the original creators of the Software is an obligatory requirement for any derivative work based on the "Computer Hacks" software.
+
+By accessing or using the "Computer Hacks" software, you explicitly acknowledge and consent to the terms and conditions outlined in this Disclaimer. Any breach of the stipulated terms may lead to legal repercussions and the revocation of your right to use the Software.
