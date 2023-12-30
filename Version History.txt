@@ -1,1 +1,2 @@
-29/12/2023 | Version 1.0 | ComputerHacks Releases to the public
+30/12/2023 | Version 1.1.0 | Added a extra function to ComputerHacks (C: Drive Scanner) as well as fix some minor bugs
+29/12/2023 | Version 1.0.0 | ComputerHacks Releases to the public

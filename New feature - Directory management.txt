@@ -1,0 +1,3 @@
+Nothing to show here bro, i wont show my directory, But i will say its a nice function, 
+
+Usually for a 200GB used C: with a i7-13700H intel CPU and Nvidia GeForce RTX 3050 GPU, it took me 23 seconds to generate everything
